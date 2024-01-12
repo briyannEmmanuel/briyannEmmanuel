@@ -1,6 +1,6 @@
 ### Hi there 👋
 ###  je suis briyann emmanuel juste  MOUTIMA
-###  Master 1 Genie logiciel a institut superiei  d'Informatique ,  Dakar
+###  Master 2 Genie logiciel a institut superiei  d'Informatique ,  Dakar
 - developpeur d'application web ,mobile , desktop
 - nationalit  :  Congolaise 
 - email : mbriyann01@gmail.com
